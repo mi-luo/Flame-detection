@@ -1,0 +1,7 @@
+train: /data/wangzerui/thin_thick_split/train  # train images (relative to 'path') 128 images
+#val: /data/wangzerui/thin_thick_split/val  # val images (relative to 'path') 128 images
+val: C:\Users\Administrator\Desktop\test  # val images (relative to 'path') 128 images
+
+# Classes
+nc: 1  # number of classes
+names: ['fire']  # class names
