@@ -14,11 +14,7 @@ pip install -r requirements.txt  #  install
 
 ## Pretrained Checkpoints：
 
-1. our model weights in STFDN： /STFDN/STDFDN_pth/weights/best.pt
-
-or
-
-2. Download our model weights on Baidu Cloud Drive: https://pan.baidu.com/s/1XjHGzPQUtVLDFCubTeffbw?pwd=6w4b   
+Download our model weights on Baidu Cloud Drive: https://pan.baidu.com/s/1XjHGzPQUtVLDFCubTeffbw?pwd=6w4b   
 
 
 
