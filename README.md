@@ -19,7 +19,7 @@ pip install -r requirements.txt  #  install
 
 or
 
-2.Download our model weights on Baidu Cloud Drivek:ttps://pan.baidu.com/s/1XjHGzPQUtVLDFCubTeffbw?pwd=6w4b   
+2.Download our model weights on Baidu Cloud Drivek:https://pan.baidu.com/s/1XjHGzPQUtVLDFCubTeffbw?pwd=6w4b   
 
 
 
