@@ -5,9 +5,9 @@ STFDN stands for Flame Detection Network with Saliency Prior Guidance and Task I
 
 ## install
 
-git clone https://github.com/mi-luo/Flame-detection  # clone
-cd Flame-detection
-pip install -r requirements.txt  # install
+git clone https://github.com/mi-luo/Flame-detection  # clone  
+cd Flame-detection  
+pip install -r requirements.txt  # install  
 
 
 
