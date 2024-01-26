@@ -13,13 +13,13 @@ pip install -r requirements.txt  #  install
 
 ## Pretrained Checkpoints：
 
-1.our model weights in STFDN：
+1. our model weights in STFDN：
 
 /STFDN/STDFDN_pth/weights/best.pt
 
 or
 
-2.Download our model weights on Baidu Cloud Drive: https://pan.baidu.com/s/1XjHGzPQUtVLDFCubTeffbw?pwd=6w4b   
+2. Download our model weights on Baidu Cloud Drive: https://pan.baidu.com/s/1XjHGzPQUtVLDFCubTeffbw?pwd=6w4b   
 
 
 
@@ -27,7 +27,7 @@ or
 
 ## Dataset of HRSID-FD：
 
-1.Download our val datasets on Baidu Cloud Drive: https://pan.baidu.com/s/1pq7jGjF3RZAL6b0o-ide_w?pwd=smxq  
+1. Download our val datasets on Baidu Cloud Drive: https://pan.baidu.com/s/1pq7jGjF3RZAL6b0o-ide_w?pwd=smxq  
 
 2. Download our publicly available dataset (HRSID-FD) on Baidu Cloud Drive：https://pan.baidu.com/s/1fZ0japGjMxOx5hgJQNuIbA?pwd=22fe  
 
