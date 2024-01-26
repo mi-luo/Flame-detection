@@ -13,9 +13,7 @@ pip install -r requirements.txt  #  install
 
 ## Pretrained Checkpoints：
 
-1. our model weights in STFDN：
-
-/STFDN/STDFDN_pth/weights/best.pt
+1. our model weights in STFDN： /STFDN/STDFDN_pth/weights/best.pt
 
 or
 
