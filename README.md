@@ -56,6 +56,7 @@ python val.py
 
 
 ## Acknowledgements
+
   Our dataset is created based on the datasets provided in "Wildland Fire Detection and Monitoring Using a Drone-Collected RGB/IR Image Dataset" and "Aerial imagery pile burn detection using deep learning: The FLAME dataset". we would like to express our sincere gratitude to the organizations involved for their significant contributions in forest fire monitoring. Below are the links to their respective research papers:
 
   "Wildland Fire Detection and Monitoring Using a Drone-Collected RGB/IR Image Dataset": https://ieeexplore.ieee.org/document/9953997
