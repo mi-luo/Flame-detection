@@ -7,18 +7,20 @@ STFDN stands for Flame Detection Network with Saliency Prior Guidance and Task I
 
 git clone https://github.com/mi-luo/Flame-detection  # clone  
 cd Flame-detection  
-pip install -r requirements.txt  # install  
+pip install -r requirements.txt  #  install  
 
 
 
 ## Pretrained Checkpoints：
-1./STFDN/STDFDN_pth/weights/best.pt
+
+1.our model weights in STFDN：
+/STFDN/STDFDN_pth/weights/best.pt
 
 or
 
-Download our model weights on Baidu Cloud Drivek:
+Download our model weights on Baidu Cloud Drivek:  
 
-2 https://pan.baidu.com/s/1XjHGzPQUtVLDFCubTeffbw?pwd=6w4b
+2 https://pan.baidu.com/s/1XjHGzPQUtVLDFCubTeffbw?pwd=6w4b  
 
 
 
@@ -26,9 +28,9 @@ Download our model weights on Baidu Cloud Drivek:
 
 ## Dataset of HRSID-FD：
 
-Download our val datasets on Baidu Cloud Drivek:---
+1.Download our val datasets on Baidu Cloud Drivek:https://pan.baidu.com/s/1pq7jGjF3RZAL6b0o-ide_w?pwd=smxq  
 
-Download our publicly available dataset (HRSID-FD) on Baidu Cloud Drive：---
+2. Download our publicly available dataset (HRSID-FD) on Baidu Cloud Drive：https://pan.baidu.com/s/1fZ0japGjMxOx5hgJQNuIbA?pwd=22fe  
 
 
 
