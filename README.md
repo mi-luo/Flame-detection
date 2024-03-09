@@ -1,6 +1,6 @@
 
-# Flame-detection(STFDN)
-STFDN stands for Flame Detection Network with Saliency Prior Guidance and Task Information Decoupling , which is a network specifically designed to detect flames in images captured by unmanned aerial vehicles (UAVs) in forest environments.
+# Flame-detection(SFGDN)
+SFGDN stands for Salience Feature Guided Decoupling Network for UAV Remote Sensing Flame Detection , which is a network specifically designed to detect flames in images captured by unmanned aerial vehicles (UAVs) in forest environments.
 
 
 ## install
