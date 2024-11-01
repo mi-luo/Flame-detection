@@ -68,4 +68,4 @@ https://www.sciencedirect.com/science/article/pii/S1389128621001201
 
 
 ## Contact
-For STFDN bug reports and feature requests, and feel free to ask questions and engage in discussions!
+For SFGDN bug reports and feature requests, and feel free to ask questions and engage in discussions!
